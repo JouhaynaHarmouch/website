@@ -1,6 +1,7 @@
 # Jouhayna Harmouch 
  I am Jouhayna Harmouch, a Joint-PhD student between [UCA-France](http://univ-cotedazur.fr) and [UL-Lebanon](http://www.fsciences.ul.edu.lb/site/). I do my research at [Inria Sophia Antipolis - Méditerranée](http://inria.fr) in the team [AROMATH](aromath) since January 2016. 
 ![photo](https://github.com/JouhaynaHarmouch/website/blob/master/Photo.jpg)
+$x^2$
 
 I work mainly on low rank decomposition and completion methods and their applications with [Bernard Mourrain](https://www.linkedin.com/in/jouhayna-harmouch-0240a89b/edit/topcard/) and [Houssam Khalil](https://www.researchgate.net/profile/Houssam_Khalil).
 
