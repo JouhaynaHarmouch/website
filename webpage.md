@@ -1,3 +1,5 @@
+<script type="text/javascript" async src="https://github.com/JouhaynaHarmouch/website/blob/master/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
 # Jouhayna Harmouch 
  I am Jouhayna Harmouch, a Joint-PhD student between [UCA-France](http://univ-cotedazur.fr) and [UL-Lebanon](http://www.fsciences.ul.edu.lb/site/). I do my research at [Inria Sophia Antipolis - Méditerranée](http://inria.fr) in the team [AROMATH](aromath) since January 2016. 
 ![photo](https://github.com/JouhaynaHarmouch/website/blob/master/Photo.jpg)
